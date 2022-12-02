@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.box {
+  margin: 0 auto;
+  background-color: aqua;
+  width: 350px;
+}
+.box_title {
+  text-align: center;
+}
+
+.list {
+  padding-bottom: 10px;
+}
+
+.panel {
+  margin: 0 auto;
+  width: 250px;
+}
+.panel_button {
+  background-color: azure;
+  border: 0px;
+}
+.panel_button:active {
+  background-color: rgb(166, 206, 206);
+}
+.panel_input {
+  border: 0px;
+}
